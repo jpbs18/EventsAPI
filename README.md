@@ -22,8 +22,8 @@ This is a simple API backend built with Go that provides user authentication and
 
 Make sure you have the following installed on your machine:
 
-Go (install from [gin-gonic](https://gin-gonic.com/))
-SQLite (Pre-installed on most operating systems)
+- Go (install from [gin-gonic](https://gin-gonic.com/))
+- SQLite (Pre-installed on most operating systems)
 
 
 ### Installation
