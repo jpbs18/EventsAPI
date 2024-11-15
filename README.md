@@ -52,9 +52,9 @@ Make sure you have the following installed on your machine:
 
 ## Events
 - GET /events: Retrieve a list of all events
-- POST /events: Add a new event (need to be authenticated) (need to be authenticated)
+- POST /events: Add a new event (needs authentication)
 - GET /events/{id}: Retrieve a specific event by ID
-- PUT /events/{id}: Update a specific event by ID (need to be authenticated)
-- DELETE /events/{id}: Delete a specific event by ID (need to be authenticated)
-- POST /events/{id}/register: Registers a specific event for a user (need to be authenticated)
-- DELETE /events/{id}/register: Cancels registration of a sepcific event for a user (need to be authenticated)
+- PUT /events/{id}: Update a specific event by ID (needs authentication)
+- DELETE /events/{id}: Delete a specific event by ID (needs authentication)
+- POST /events/{id}/register: Registers a specific event for a user (needs authentication)
+- DELETE /events/{id}/register: Cancels registration of a sepcific event for a user (needs authentication)
